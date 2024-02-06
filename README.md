@@ -15,7 +15,7 @@
 <br>
 <br>
 
-# Skill Stack
+# Skill
 <div align="center">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -43,8 +43,18 @@
   
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+</div>
 
-  
+<br>
+
+# Studying
+<div align="center">
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-skyblue?style=flat-square&logo=Kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-violet?style=flat-square&logo=Jenkins&logoColor=white"/>
+...
 </div>
 
 <br>
