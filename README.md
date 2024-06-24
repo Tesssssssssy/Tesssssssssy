@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/-Logstash-005571?style=flat-square&logo=logstash&logoColor=orange"/>
   <img src="https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=kibana&logoColor=purple"/>
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" />
   <br>
   
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
@@ -83,7 +84,6 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-skyblue?style=flat-square&logo=Kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
-...
 </div>
 
 <br>
