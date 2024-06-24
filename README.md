@@ -16,8 +16,9 @@
 <br>
 
 # Baekjoon Online Judge
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ewoo97)](https://solved.ac/ewoo97)
+<div align="center">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ewoo97" width=40% />
+</div>
 
 <br>
 <br>
