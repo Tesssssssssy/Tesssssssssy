@@ -15,6 +15,17 @@
 <br>
 <br>
 
+# velog
+<div align="center">
+    <img src="https://velog-readme-stats.vercel.app/api?name=ewoo97" width=40% />
+</div>
+<div align="center">
+    <a href="https://velog.io/@ewoo97/posts">👉🏻 Tessssssssy velog 바로가기</a>
+</div>
+
+<br>
+<br>
+
 # Baekjoon Online Judge
 <div align="center">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ewoo97" width=40% />
