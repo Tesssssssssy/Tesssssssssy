@@ -1,7 +1,7 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
+  schedule:
     - cron: "0 18 * * *"
   workflow_dispatch:
 
@@ -12,12 +12,13 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
+        with:
+          USERNAME: ${{ secrets.USERNAME }} # USERNAME을 GitHub secret에서 가져옵니다.
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
-          USERNAME: "Tesssssssssy"
       - name: Commit & Push
         run: |
-          git config user.name Tesssssssssy
+          git config user.name "${{ secrets.USERNAME }}" # 사용자 이름을 secret에서 가져옵니다.
           git config user.email ewoo97@naver.com
           git add -A .
           git commit -m "generated"
