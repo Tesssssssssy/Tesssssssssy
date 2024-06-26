@@ -88,7 +88,7 @@
 
 <br>
 
-# Studying
+# Interested In
 <div align="center">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
@@ -97,6 +97,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-skyblue?style=flat-square&logo=Kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" />
 </div>
 
 <br>
