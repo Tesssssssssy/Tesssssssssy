@@ -38,7 +38,7 @@
 
 # Skill
 <div align="left">
-  <p>✅ Framework & Language</p>
+  <p>✔️ Framework & Language</p>
   &nbsp &nbsp &nbsp <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Conda-Forge&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
@@ -47,7 +47,7 @@
   <br>
   <br>
 
-  <p>✅ Database</p>
+  <p>✔️ Database</p>
   &nbsp &nbsp &nbsp <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
@@ -56,7 +56,7 @@
   <br>
   <br>
 
-  <p>✅ Search</p>
+  <p>✔️ Search</p>
   &nbsp &nbsp &nbsp <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/-Logstash-005571?style=flat-square&logo=logstash&logoColor=orange"/>
   <img src="https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=kibana&logoColor=purple"/>
@@ -65,7 +65,7 @@
   <br>
   <br>
 
-  <p>✅ OS (Linux)</p>
+  <p>✔️ OS (Linux)</p>
   &nbsp &nbsp &nbsp <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/CentOS-87CEEB?style=flat-square&logo=CentOS&logoColor=black"/>
@@ -74,7 +74,7 @@
   <br>
   <br>
 
-  <p>✅ Server</p>
+  <p>✔️ Server</p>
   &nbsp &nbsp &nbsp <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" />
   
@@ -82,7 +82,7 @@
   <br>
   <br>
 
-  <p>✅ AWS</p>
+  <p>✔️ AWS</p>
   &nbsp &nbsp &nbsp <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat-square&logo=Amazon%20RDS&logoColor=white"/> 
@@ -91,14 +91,14 @@
   <br>
   <br>
 
-  <p>✅ Frontend</p>
+  <p>✔️ Frontend</p>
   &nbsp &nbsp &nbsp <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 
   <br>
   <br>
   <br>
 
-  <p>✅ Test</p>
+  <p>✔️ Test</p>
   &nbsp &nbsp &nbsp <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white"/>
   <img src="https://img.shields.io/badge/nGrinder-3A3B3C?style=flat-square&logo=Naver&logoColor=white/">
@@ -108,7 +108,7 @@
   <br>
   <br>
   
-  <p>✅ CI/CD</p>
+  <p>✔️ CI/CD</p>
   &nbsp &nbsp &nbsp <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-skyblue?style=flat-square&logo=Kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
@@ -117,7 +117,7 @@
   <br>
   <br>
 
-  <p>✅ Cooperation</p>
+  <p>✔️ Cooperation</p>
   &nbsp &nbsp &nbsp <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white"/>
