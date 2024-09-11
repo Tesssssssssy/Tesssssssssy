@@ -17,7 +17,7 @@
 
 # velog
 <div align="left">
-    <img src="https://velog-readme-stats.vercel.app/api?name=ewoo97" width=70% />
+    <img src="https://velog-readme-stats.vercel.app/api?name=ewoo97" width=80% />
 </div>
 <div align="left">
     👉🏻 <a href="https://velog.io/@ewoo97/posts">Tessssssssy velog 바로가기</a>
