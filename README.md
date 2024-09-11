@@ -8,7 +8,7 @@
 </a>
 
 <div align="left">
-    <img src="./profile-3d-contrib/profile-night-view.svg" width="85%" />
+    <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
 </div>
 
 <br>
@@ -17,7 +17,7 @@
 
 # velog
 <div align="left">
-    <img src="https://velog-readme-stats.vercel.app/api?name=ewoo97" width=100% />
+    <img src="https://velog-readme-stats.vercel.app/api?name=ewoo97" width=70% />
 </div>
 <div align="left">
     👉🏻 <a href="https://velog.io/@ewoo97/posts">Tessssssssy velog 바로가기</a>
