@@ -143,6 +143,16 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=yellow&color=purple"/>
+
+  <br>
+  <br>
+  <br>
+
+  <p>✔️ Blog</p>
+  &nbsp &nbsp &nbsp <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tistory-FF7600?style=flat-square&logo=tistory&logoColor=white"/>
+
+
 </div>
 
 <br>
