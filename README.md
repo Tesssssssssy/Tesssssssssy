@@ -29,6 +29,11 @@
 
 # Tistory
 <!-- BLOG-POST-LIST:START -->
+- [[Git] Git main -&amp;gt; develop 브랜치 변경](https://tessssssssy.tistory.com/5)
+- [[일상] 입사 5개월 차](https://tessssssssy.tistory.com/4)
+- [[일상] 2024 회고](https://tessssssssy.tistory.com/3)
+- [Velog -&amp;gt; Tistory 이전](https://tessssssssy.tistory.com/2)
+- [[일상] 2024 개발자 취업 후기](https://tessssssssy.tistory.com/1)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
