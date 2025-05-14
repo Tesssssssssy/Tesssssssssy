@@ -17,3 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://tessssssssy.tistory.com/rss"
+          accept_header: "text/xml"
