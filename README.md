@@ -29,11 +29,11 @@
 
 # Tistory
 <!-- BLOG-POST-LIST:START -->
+- [[Github] 가비아 도메인 + Github Pages 호스팅](https://tessssssssy.tistory.com/7)
 - [[Github] Github README.md 꾸미기](https://tessssssssy.tistory.com/6)
 - [[Git] Git main -&amp;gt; develop 브랜치 변경](https://tessssssssy.tistory.com/5)
 - [[일상] 입사 5개월 차](https://tessssssssy.tistory.com/4)
 - [[일상] 2024 회고](https://tessssssssy.tistory.com/3)
-- [Velog -&amp;gt; Tistory 이전](https://tessssssssy.tistory.com/2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
